@@ -1,8 +1,6 @@
 # Copyright 2022 Gentoo Authors
 # Distributed under the terms of the GNU General Public License v2
 
-# i am noob so very messy, but it works :3
-
 EAPI=8
 
 DESCRIPTION="A version of lolcat with options for some lgbtq+ flags."
